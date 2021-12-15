@@ -8,7 +8,9 @@ radius = 21.0
 height = 111.0
 
 [node name="Player" type="KinematicBody2D"]
+collision_mask = 8
 script = ExtResource( 2 )
+speed = Vector2( 800, 1000 )
 gravity = 500.0
 
 [node name="DdtankPlayer" type="Sprite" parent="."]
