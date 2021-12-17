@@ -2,10 +2,11 @@ extends Actor
 
 export var stomp_impulse = 1000.0
 
-func _on_EnemyDetector_area_entered(area: Area2D) -> void:
+
+func _on_StompTest_area_entered(area: Area2D) -> void:
 	_velocity = calculate_stomp_velocity(_velocity, stomp_impulse)
 
-func _on_EnemyDetector_body_entered(body: Node) -> void:
+func _on_EnemyDetector_body_entered(body: PhysicsBody2D) -> void:
 	queue_free()
 
 func _physics_process(delta: float) -> void:
@@ -41,7 +42,3 @@ func calculate_stomp_velocity(linear_velocity: Vector2, impulse: float) -> Vecto
 	var out: = linear_velocity
 	out.y = -impulse
 	return out
-
-
-
-
