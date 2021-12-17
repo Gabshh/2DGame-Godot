@@ -49,13 +49,13 @@ modulate = Color( 0.776471, 0.027451, 0.988235, 1 )
 position = Vector2( 1.5, -38.25 )
 shape = SubResource( 2 )
 
-[node name="StompFunc" type="Area2D" parent="."]
+[node name="StompTest" type="Area2D" parent="."]
 
-[node name="Collision2" type="CollisionShape2D" parent="StompFunc"]
+[node name="Collision2" type="CollisionShape2D" parent="StompTest"]
 modulate = Color( 0.909804, 0.0352941, 0.0352941, 1 )
 position = Vector2( 2, -14 )
 shape = SubResource( 3 )
 
 [connection signal="area_entered" from="EnemyDetector" to="." method="_on_EnemyDetector_area_entered"]
 [connection signal="body_entered" from="EnemyDetector" to="." method="_on_EnemyDetector_body_entered"]
-[connection signal="area_entered" from="StompFunc" to="." method="_on_StompTest_area_entered"]
+[connection signal="area_entered" from="StompTest" to="." method="_on_StompTest_area_entered"]
