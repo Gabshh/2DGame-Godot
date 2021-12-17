@@ -1,3 +1,3 @@
 # 2DGame-Godot
 
-![screenshot](2DGame-Godot/src/refs/Screenshot.PNG)
+![screenshot](https://github.com/Gabshh/2DGame-Godot/blob/main/src/refs/Screenshot.PNG)
