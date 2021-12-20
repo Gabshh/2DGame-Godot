@@ -1,0 +1,3 @@
+(window.$wj=window.$wj||[]).push([[1946],{19827:function(e,n,t){"use strict";t.r(n);var o=t(327),d=t(296),r=t(6654),s=t(3),a=Object(s.mutatorAction)("updateAllowedSenders",e=>{r.a.allowedSenders=e});const w="ows/beta/Amp/GetAllowedSenders";async function l(){if(Object(d.a)()){const e=await Object(o.b)(w);e.allowedSenders&&a(e.allowedSenders)}return Promise.resolve()}t.d(n,"loadSenders",(function(){return l}))}}]);
+//# sourceMappingURL=owa.1946.js.map
+self.scriptsLoaded = self.scriptsLoaded || {};self.scriptsLoaded['owa.1946.js'] = 1;
