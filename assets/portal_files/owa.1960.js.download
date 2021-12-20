@@ -1,3 +1,0 @@
-(window.$wj=window.$wj||[]).push([[1960],{19870:function(n,e,t){"use strict";t.r(e);var i=t(1693),o=t(702),c=Object(o.action)("setTriageActionAnnouncement")((function(n,e="polite"){const t=Object(i.b)();t.triageAnnouncement={message:t.triageAnnouncement.message===n?n+" ":n,politenessSetting:e}}));t.d(e,"setTriageActionAnnouncement",(function(){return c}))}}]);
-//# sourceMappingURL=owa.1960.js.map
-self.scriptsLoaded = self.scriptsLoaded || {};self.scriptsLoaded['owa.1960.js'] = 1;

@@ -1,3 +1,0 @@
-(window.$wj=window.$wj||[]).push([[1976],{19831:function(t,n,e){"use strict";e.r(n);var i=e(13660),o=e(3),a=Object(o.mutatorAction)("updateSkypeUserOption",(function(t,n,e){t[n]=e})),c=e(13661),s=e(47);function r(){Object(s.j)("fwk-skypeConsumer")&&window.swc.getNotificationSettings().then(t=>{const n=Object(c.a)();t.readOption(i.a.IncomingCall).then(t=>{a(n,"skypeCallingNotification",Object(i.c)(t.value))}),t.readOption(i.a.NewMessage).then(t=>{a(n,"skypeMessageNotification",Object(i.c)(t.value))})})}var u=e(9982);e.d(n,"initializeNotificationSettings",(function(){return r})),e.d(n,"getUserSkypeOptions",(function(){return u.a}))}}]);
-//# sourceMappingURL=owa.1976.js.map
-self.scriptsLoaded = self.scriptsLoaded || {};self.scriptsLoaded['owa.1976.js'] = 1;

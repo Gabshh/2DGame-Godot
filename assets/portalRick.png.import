@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/thumbnail_PicsArt_12-19-04.57.53.png-ada87db5d79b3763860e601fc9fdcd9f.stex"
+path="res://.import/portalRick.png-f389faeead80f5d97afed1356d3beb2c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/portal_files/thumbnail_PicsArt_12-19-04.57.53.png"
-dest_files=[ "res://.import/thumbnail_PicsArt_12-19-04.57.53.png-ada87db5d79b3763860e601fc9fdcd9f.stex" ]
+source_file="res://assets/portalRick.png"
+dest_files=[ "res://.import/portalRick.png-f389faeead80f5d97afed1356d3beb2c.stex" ]
 
 [params]
 

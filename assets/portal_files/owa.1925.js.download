@@ -1,3 +1,0 @@
-(window.$wj=window.$wj||[]).push([[1925],{19302:function(n,e,u){"use strict";u.r(e);var i=u(5511);u.d(e,"increaseNativeAdsClickedRunningSum",(function(){return i.a})),u.d(e,"increaseNativeAdsSeenRunningSum",(function(){return i.c})),u.d(e,"increaseNativeAdsDeletedRunningSum",(function(){return i.b})),u.d(e,"updateNativeWinCPMRunningSum",(function(){return i.d})),u.d(e,"updateWasAdLastSeenInLastSession",(function(){return i.f})),u.d(e,"updateUserIsSuperClicker",(function(){return i.e}))}}]);
-//# sourceMappingURL=owa.1925.js.map
-self.scriptsLoaded = self.scriptsLoaded || {};self.scriptsLoaded['owa.1925.js'] = 1;

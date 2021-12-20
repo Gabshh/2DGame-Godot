@@ -1,3 +1,0 @@
-(window.$wj=window.$wj||[]).push([[1929],{19270:function(s,t,n){"use strict";n.r(t);var c=n(2130);n.d(t,"getAccessIssuesForAttachments",(function(){return c.b}))}}]);
-//# sourceMappingURL=owa.1929.js.map
-self.scriptsLoaded = self.scriptsLoaded || {};self.scriptsLoaded['owa.1929.js'] = 1;

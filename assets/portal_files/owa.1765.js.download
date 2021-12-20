@@ -1,3 +1,0 @@
-(window.$wj=window.$wj||[]).push([[1765],{19241:function(p){p.exports=JSON.parse('{"moreAppsLinkText":"yac","openInNewTab":"zac","aboutApp":"Aac","unpinApp":"Bac","pinApp":"Cac","uninstallApp":"Dac"}')}}]);
-//# sourceMappingURL=owa.1765.js.map
-self.scriptsLoaded = self.scriptsLoaded || {};self.scriptsLoaded['owa.1765.js'] = 1;
